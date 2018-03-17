@@ -80,8 +80,8 @@ You can add it under the Problem 3 heading in the answers.
 
 # Answers
 ## Problem 1
-- Changed 'selectedStation' variable.
-- Changed access to index of 'stationStartYears' variable.
+- Changed `selectedStation` variable.
+- Changed access to index of `stationStartYears` variable.
 - Added quotes of output print function.
 
 ## Problem 2
@@ -89,7 +89,6 @@ It was simple for me but I had problem with inline comments in English because m
 
 ## Problem 3
 It's ok.
-You can see an example of how to display an image with a caption below.
 
-![Text shown if image does not load](Images/mycat.jpg)<br/>
+![Text shown if image does not load](Images/mycats.jpg)<br/>
 *Figure 1: My cat*
