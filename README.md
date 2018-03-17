@@ -90,5 +90,5 @@ It was simple for me but I had problem with inline comments in English because m
 ## Problem 3
 It's ok.
 
-!(Images/mycats.jpg)<br/>
+!(Images/mycat.jpg)<br/>
 *Figure 1: My cat*
